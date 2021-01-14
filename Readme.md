@@ -1,3 +1,3 @@
 # Exemplo simples de animação
 
-[exemplo](/exemplo/gif.gif)
+![exemplo](/exemplo/gif.gif)
